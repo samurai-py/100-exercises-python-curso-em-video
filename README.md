@@ -9,3 +9,5 @@ Repositório bagunçado porque na época eu era bem desleixado mesmo.
 Subirei **10 exercícios por dia.**
 
 *Não é garantia que sejam 10 dias seguidos.*
+
+***OBS.: Desisti e postei tudo ao mesmo tempo***
